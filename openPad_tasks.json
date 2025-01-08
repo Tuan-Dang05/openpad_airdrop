@@ -1,0 +1,438 @@
+{
+    "status": 200,
+    "message": "Success",
+    "data": [
+        {
+            "questCmsId": 1,
+            "network": "TELEGRAM",
+            "title": "Subscribe OpenPad Channel",
+            "totalPoint": 10,
+            "inpProgress": 0,
+            "priority": 2,
+            "questCategory": "OpenPad",
+            "questCategoryId": 1,
+            "questCategoryPriority": 1,
+            "quests": [
+                {
+                    "questCmsId": 1,
+                    "title": "Subscribe OpenPad Channel",
+                    "name": "Telegram Channel",
+                    "network": "TELEGRAM",
+                    "targetId": "@openpad_channel",
+                    "point": 10,
+                    "value": null,
+                    "action": "JOIN TELEGRAM CHANNEL",
+                    "url": "https://t.me/openpad_channel",
+                    "questCollection": "quest-mini-apps",
+                    "priority": 2,
+                    "questCategory": "OpenPad",
+                    "questCategoryId": 1,
+                    "questCategoryPriority": 1,
+                    "isDone": false
+                }
+            ]
+        },
+        {
+            "questCmsId": 2,
+            "network": "TELEGRAM",
+            "title": "Join Telegram Group",
+            "totalPoint": 10,
+            "inpProgress": 0,
+            "priority": 5,
+            "questCategory": "OpenPad",
+            "questCategoryId": 1,
+            "questCategoryPriority": 1,
+            "quests": [
+                {
+                    "questCmsId": 2,
+                    "title": "Join Telegram Group",
+                    "name": "Telegram Group",
+                    "network": "TELEGRAM",
+                    "targetId": "-1001839906448",
+                    "point": 10,
+                    "value": null,
+                    "action": "JOIN TELEGRAM GROUP",
+                    "url": "https://t.me/openpad_official",
+                    "questCollection": "quest-mini-apps",
+                    "priority": 5,
+                    "questCategory": "OpenPad",
+                    "questCategoryId": 1,
+                    "questCategoryPriority": 1,
+                    "isDone": false
+                }
+            ]
+        },
+        {
+            "questCmsId": 3,
+            "network": "X",
+            "title": "Follow OpenPad Twitter",
+            "totalPoint": 10,
+            "inpProgress": 0,
+            "priority": 4,
+            "questCategory": "OpenPad",
+            "questCategoryId": 1,
+            "questCategoryPriority": 1,
+            "quests": [
+                {
+                    "questCmsId": 3,
+                    "title": "Follow OpenPad Twitter",
+                    "name": "OpenPad Twitter",
+                    "network": "X",
+                    "targetId": null,
+                    "point": 10,
+                    "value": null,
+                    "action": "FOLLOW",
+                    "url": "https://x.com/intent/follow?screen_name=Openpad_io",
+                    "questCollection": "quest-mini-apps",
+                    "priority": 4,
+                    "questCategory": "OpenPad",
+                    "questCategoryId": 1,
+                    "questCategoryPriority": 1,
+                    "isDone": false
+                }
+            ]
+        },
+        {
+            "questCmsId": 4,
+            "network": "MINIAPP",
+            "title": "Daily Login",
+            "totalPoint": 5,
+            "inpProgress": 0,
+            "priority": 1,
+            "questCategory": "OpenPad",
+            "questCategoryId": 1,
+            "questCategoryPriority": 1,
+            "quests": [
+                {
+                    "questCmsId": 4,
+                    "title": "Daily Login",
+                    "name": "Daily Login",
+                    "network": "MINIAPP",
+                    "targetId": null,
+                    "point": 5,
+                    "value": null,
+                    "action": "DAILY LOGIN",
+                    "url": null,
+                    "questCollection": "quest-mini-apps",
+                    "priority": 1,
+                    "questCategory": "OpenPad",
+                    "questCategoryId": 1,
+                    "questCategoryPriority": 1,
+                    "isDone": false
+                }
+            ]
+        },
+        {
+            "questCmsId": 5,
+            "network": "KYC",
+            "title": "Complete KYC",
+            "totalPoint": 50,
+            "inpProgress": 0,
+            "priority": 3,
+            "questCategory": "OpenPad",
+            "questCategoryId": 1,
+            "questCategoryPriority": 1,
+            "quests": [
+                {
+                    "questCmsId": 5,
+                    "title": "Complete KYC",
+                    "name": "KYC ",
+                    "network": "KYC",
+                    "targetId": null,
+                    "point": 50,
+                    "value": null,
+                    "action": "KYC",
+                    "url": "https://openpad.io/app/profile",
+                    "questCollection": "quest-mini-apps",
+                    "priority": 3,
+                    "questCategory": "OpenPad",
+                    "questCategoryId": 1,
+                    "questCategoryPriority": 1,
+                    "isDone": false
+                }
+            ]
+        },
+        {
+            "questCmsId": 60,
+            "network": "KYC",
+            "title": "Play GTap Game",
+            "totalPoint": 15,
+            "inpProgress": 0,
+            "priority": 13,
+            "quests": [
+                {
+                    "questCmsId": 60,
+                    "title": "Play GTap Game",
+                    "name": "Play GTap Game",
+                    "network": "KYC",
+                    "targetId": null,
+                    "point": 15,
+                    "value": null,
+                    "action": "KYC",
+                    "url": "https://t.me/Gafinbot?start=659091539",
+                    "questCollection": "quest-mini-apps",
+                    "priority": 13,
+                    "isDone": false
+                }
+            ]
+        },
+        {
+            "questCmsId": 77,
+            "network": "TELEGRAM",
+            "title": "Add \"💎 OpenPad\" in Telegram Name",
+            "totalPoint": 10,
+            "inpProgress": 0,
+            "priority": 15,
+            "questCategory": "OpenPad",
+            "questCategoryId": 1,
+            "questCategoryPriority": 1,
+            "quests": [
+                {
+                    "questCmsId": 77,
+                    "title": "Add \"💎 OpenPad\" in Telegram Name",
+                    "name": "Add \"💎 OpenPad\" in telegram name",
+                    "network": "TELEGRAM",
+                    "targetId": "💎 OpenPad",
+                    "point": 10,
+                    "value": null,
+                    "action": "CHANGE NAME TELEGRAM",
+                    "url": "💎 OpenPad",
+                    "questCollection": "quest-mini-apps",
+                    "priority": 15,
+                    "questCategory": "OpenPad",
+                    "questCategoryId": 1,
+                    "questCategoryPriority": 1,
+                    "isDone": false
+                }
+            ]
+        },
+        {
+            "questCmsId": 84,
+            "network": "TELEGRAM",
+            "title": "Join CoCo Park Channel to get 0.1 TON",
+            "totalPoint": 10,
+            "inpProgress": 0,
+            "priority": 10,
+            "quests": [
+                {
+                    "questCmsId": 84,
+                    "title": "Join CoCo Park Channel to get 0.1 TON",
+                    "name": "Join CoCo Park Channel to get 0.1 TON",
+                    "network": "TELEGRAM",
+                    "targetId": null,
+                    "point": 10,
+                    "value": null,
+                    "action": "JOIN TELEGRAM CHANNEL",
+                    "url": " https://t.me/cocopark_ann",
+                    "questCollection": "quest-mini-apps",
+                    "priority": 10,
+                    "isDone": false
+                }
+            ]
+        },
+        {
+            "questCmsId": 270,
+            "network": "KYC",
+            "title": "Join GPT360",
+            "totalPoint": 30,
+            "inpProgress": 0,
+            "priority": 1,
+            "questCategory": "GPT360 ",
+            "questCategoryId": 58,
+            "questCategoryPriority": 7,
+            "quests": [
+                {
+                    "questCmsId": 270,
+                    "title": "Join GPT360",
+                    "name": "Join GPT360",
+                    "network": "KYC",
+                    "targetId": null,
+                    "point": 30,
+                    "value": null,
+                    "action": "KYC",
+                    "url": "https://t.me/G360GOBOT/app?startapp=N3SSQNEH1QXQ",
+                    "questCollection": "quest-mini-apps",
+                    "priority": 1,
+                    "questCategory": "GPT360 ",
+                    "questCategoryId": 58,
+                    "questCategoryPriority": 7,
+                    "isDone": false
+                }
+            ]
+        },
+        {
+            "questCmsId": 271,
+            "network": "X",
+            "title": "Follow GPT360 on X",
+            "totalPoint": 30,
+            "inpProgress": 0,
+            "priority": 1,
+            "questCategory": "GPT360 ",
+            "questCategoryId": 58,
+            "questCategoryPriority": 7,
+            "quests": [
+                {
+                    "questCmsId": 271,
+                    "title": "Follow GPT360 on X",
+                    "name": "Follow GPT360 on X",
+                    "network": "X",
+                    "targetId": null,
+                    "point": 30,
+                    "value": null,
+                    "action": "FOLLOW",
+                    "url": "https://x.com/GPT360_Official",
+                    "questCollection": "quest-mini-apps",
+                    "priority": 1,
+                    "questCategory": "GPT360 ",
+                    "questCategoryId": 58,
+                    "questCategoryPriority": 7,
+                    "isDone": false
+                }
+            ]
+        },
+        {
+            "questCmsId": 272,
+            "network": "TELEGRAM",
+            "title": "Join GPT360 Channel",
+            "totalPoint": 30,
+            "inpProgress": 0,
+            "priority": 1,
+            "questCategory": "GPT360 ",
+            "questCategoryId": 58,
+            "questCategoryPriority": 7,
+            "quests": [
+                {
+                    "questCmsId": 272,
+                    "title": "Join GPT360 Channel",
+                    "name": "Join GPT360 Channel",
+                    "network": "TELEGRAM",
+                    "targetId": null,
+                    "point": 30,
+                    "value": null,
+                    "action": "JOIN TELEGRAM CHANNEL",
+                    "url": "https://t.me/+yYjusz4ZLFkzZWFk",
+                    "questCollection": "quest-mini-apps",
+                    "priority": 1,
+                    "questCategory": "GPT360 ",
+                    "questCategoryId": 58,
+                    "questCategoryPriority": 7,
+                    "isDone": false
+                }
+            ]
+        },
+        {
+            "questCmsId": 274,
+            "network": "TELEGRAM",
+            "title": "Join BeeVerse Bot",
+            "totalPoint": 30,
+            "inpProgress": 0,
+            "priority": 1,
+            "questCategory": "BeeVerse",
+            "questCategoryId": 59,
+            "questCategoryPriority": 4,
+            "quests": [
+                {
+                    "questCmsId": 274,
+                    "title": "Join BeeVerse Bot",
+                    "name": "Join BeeVerse Bot",
+                    "network": "TELEGRAM",
+                    "targetId": null,
+                    "point": 30,
+                    "value": null,
+                    "action": "KYC",
+                    "url": "https://t.me/bee_verse_bot?start=6627347652",
+                    "questCollection": "quest-mini-apps",
+                    "priority": 1,
+                    "questCategory": "BeeVerse",
+                    "questCategoryId": 59,
+                    "questCategoryPriority": 4,
+                    "isDone": false
+                }
+            ]
+        },
+        {
+            "questCmsId": 275,
+            "network": "TELEGRAM",
+            "title": "Join BeeVerse Channel EN",
+            "totalPoint": 30,
+            "inpProgress": 0,
+            "priority": 1,
+            "questCategory": "BeeVerse",
+            "questCategoryId": 59,
+            "questCategoryPriority": 4,
+            "quests": [
+                {
+                    "questCmsId": 275,
+                    "title": "Join BeeVerse Channel EN",
+                    "name": "Join BeeVerse Channel EN",
+                    "network": "TELEGRAM",
+                    "targetId": "@beeverse_ann",
+                    "point": 30,
+                    "value": null,
+                    "action": "JOIN TELEGRAM CHANNEL",
+                    "url": "https://t.me/beeverse_ann",
+                    "questCollection": "quest-mini-apps",
+                    "priority": 1,
+                    "questCategory": "BeeVerse",
+                    "questCategoryId": 59,
+                    "questCategoryPriority": 4,
+                    "isDone": false
+                }
+            ]
+        },
+        {
+            "questCmsId": 276,
+            "network": "TELEGRAM",
+            "title": "Join BeeVerse Channel CIS",
+            "totalPoint": 30,
+            "inpProgress": 0,
+            "priority": 1,
+            "questCategory": "BeeVerse",
+            "questCategoryId": 59,
+            "questCategoryPriority": 4,
+            "quests": [
+                {
+                    "questCmsId": 276,
+                    "title": "Join BeeVerse Channel CIS",
+                    "name": "Join BeeVerse Channel CIS",
+                    "network": "TELEGRAM",
+                    "targetId": "@beeverse_ann_cis",
+                    "point": 30,
+                    "value": null,
+                    "action": "JOIN TELEGRAM CHANNEL",
+                    "url": "https://t.me/beeverse_ann_cis",
+                    "questCollection": "quest-mini-apps",
+                    "priority": 1,
+                    "questCategory": "BeeVerse",
+                    "questCategoryId": 59,
+                    "questCategoryPriority": 4,
+                    "isDone": false
+                }
+            ]
+        },
+        {
+            "questCmsId": 277,
+            "network": "KYC",
+            "title": "Join Boori bot",
+            "totalPoint": 30,
+            "inpProgress": 0,
+            "priority": 7,
+            "quests": [
+                {
+                    "questCmsId": 277,
+                    "title": "Join Boori bot",
+                    "name": "Join Boori bot",
+                    "network": "KYC",
+                    "targetId": null,
+                    "point": 30,
+                    "value": null,
+                    "action": "KYC",
+                    "url": "https://t.me/openpadbot?start=8023259473",
+                    "questCollection": "quest-mini-apps",
+                    "priority": 7,
+                    "isDone": false
+                }
+            ]
+        }
+    ]
+}
